@@ -1,0 +1,28 @@
+{
+  "name": "base-hapi-server",
+  "version": "0.0.1",
+  "description": "A base Hapi Server to get a NodeJS server setuo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djknowles21/Base-Hapi-Server.git"
+  },
+  "keywords": [
+    "hapi",
+    "base",
+    "server",
+    "nodejs"
+  ],
+  "author": "Drew Knowles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djknowles21/Base-Hapi-Server/issues"
+  },
+  "homepage": "https://github.com/djknowles21/Base-Hapi-Server#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.5"
+  }
+}
