@@ -1,4 +1,4 @@
-# Base-Hapi-Server
+# The Ultimate NodeJS API Server
 
 # Description 
 
